@@ -55,6 +55,7 @@ select {
 a {
   color: #3977eb;
   cursor: pointer;
+  margin: 0 14px 0 0;
   transition: ease 0.15s color;
   &:hover {
     color: #5f92f0;
